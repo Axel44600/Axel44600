@@ -1,5 +1,5 @@
 # Axel G.
-Je m'appel Axel, j'habite en France 🌴, je suis un développeur Web / Java junior, je suis actuellement à la recherche d’un emploi pour faire de cette passion, mon métier. 
+Bonjour, moi c'est Axel, j'habite en France 🌴 je suis Développeur Java / Web junior, je suis actuellement à la recherche d’un emploi pour faire de cette passion, mon métier. 
 
 
 Actuellement :
