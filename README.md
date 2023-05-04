@@ -1,5 +1,5 @@
 # Axel G.
-Bonjour moi c'est Axel, j'habite dans le nord-ouest de la France vers Nantes 🏠 je suis Développeur Java / Web junior, à la recherche d’un emploi pour m'épanouir dans ma passion et me forger une solide expérience.
+Bonjour moi c'est Axel, j'habite dans le nord-ouest de la France vers Nantes 🏠 je suis développeur Java / Web junior, à la recherche d’un emploi pour m'épanouir dans ma passion et me forger une solide expérience.
 
 
 Actuellement :
