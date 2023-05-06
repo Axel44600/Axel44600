@@ -12,7 +12,7 @@ Actuellement :
 
 ⚡ Anecdote : Je suis accro au sport, je fais du karaté, de la musculation au poids du corps et de la course à pied
 
-📫 Comment me joindre : Linkedin, whatsapp ou email
+📫 Comment me joindre : Linkedin, whatsapp ou par mail
 
 <img src="https://media.licdn.com/dms/image/D4E16AQHY1KpvggyiRA/profile-displaybackgroundimage-shrink_350_1400/0/1682937262638?e=1688601600&v=beta&t=0JdeZmFwcJqkpLQ_jvztJQURRp4yzssn5lXzM_43G0s" />
 
