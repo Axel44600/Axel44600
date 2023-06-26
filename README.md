@@ -1,4 +1,4 @@
-# Axel G.
+# Axel GAUDIN.
 Bonjour moi c'est Axel, j'habite dans le nord-ouest de la France vers Nantes 🏠 je suis développeur Java junior, à la recherche d’un emploi en tant que développeur back-end, front-end ou full stack afin de m'épanouir dans ma passion et de me forger une solide expérience.
 
 
